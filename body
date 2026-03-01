@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+#menu {
+    position: absolute;
+    width: 100%;
+    top: 40%;
+}
+
+canvas {
+    display: none;
+    background: #111;
+} 
